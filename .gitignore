@@ -1,1 +1,10 @@
+
+# Ignore the virtual environment
 venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+db.sqlite3
+*.sqlite
