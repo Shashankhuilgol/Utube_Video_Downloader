@@ -5,17 +5,15 @@ The **YouTube Video Downloader** is a Flask-based web application that allows us
 
 Whether you want to save videos for offline viewing, extract audio from music videos, or download lectures, this tool is the perfect solution!
 
----
-
 ## 🚀 Features
-✅ Download YouTube videos in multiple resolutions (144p, 360p, 720p, 1080p)
-✅ Extract and download audio from YouTube videos
-✅ Supports different formats such as MP4 and MP3
-✅ Easy-to-use web interface with a clean design
-✅ Error handling for invalid URLs or unavailable videos
-✅ Fast and lightweight application
 
----
+- ✅ Download YouTube videos in multiple resolutions (144p, 360p, 720p, 1080p)
+- ✅ Extract and download audio from YouTube videos
+- ✅ Supports different formats such as MP4 and MP3
+- ✅ Easy-to-use web interface with a clean design
+- ✅ Error handling for invalid URLs or unavailable videos
+- ✅ Fast and lightweight application
+
 
 ## 🛠️ Technologies Used
 - **Backend**: Flask (Python framework for web applications)
@@ -80,11 +78,11 @@ Open a browser and go to: `http://127.0.0.1:5000/`
 ---
 
 ## 🎯 How to Use
-1️⃣ Open the application in a browser.
-2️⃣ Paste the YouTube video URL into the input box.
-3️⃣ Select a resolution or audio format.
-4️⃣ Click the **Download** button.
-5️⃣ The video/audio will be processed and saved in the `downloads/` folder.
+- 1️⃣ Open the application in a browser.
+- 2️⃣ Paste the YouTube video URL into the input box.
+- 3️⃣ Select a resolution or audio format.
+- 4️⃣ Click the **Download** button.
+- 5️⃣ The video/audio will be processed and saved in the `downloads/` folder.
 
 ---
 
@@ -106,11 +104,6 @@ git push origin main
 
 ---
 
-## 💡 Future Improvements
-🔹 Add support for playlist downloads
-🔹 Implement a progress bar for better user experience
-🔹 Allow format conversion (e.g., MP4 to MP3)
-🔹 Deploy the application on Render or Heroku
 
 
 
