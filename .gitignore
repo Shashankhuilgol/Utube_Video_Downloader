@@ -8,3 +8,5 @@ __pycache__/
 *.log
 db.sqlite3
 *.sqlite
+downloads/*.mp4
+downloads/*.part
