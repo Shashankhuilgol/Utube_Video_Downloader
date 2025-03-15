@@ -1,0 +1,59 @@
+/* General Styles */
+body {
+    background-color: #000;  /* Black background */
+    color: #fff;  /* White text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+h1 {
+    color: #ffcc00; /* Bright Yellow */
+    margin-top: 20px;
+}
+
+/* Input Box */
+input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    margin: 15px 0;
+    border: 2px solid #ffcc00; /* Yellow Border */
+    border-radius: 5px;
+    background-color: #222; /* Dark Grey */
+    color: #fff;
+}
+
+/* Button */
+button {
+    background-color: #ffcc00; /* Yellow */
+    color: #000; /* Black Text */
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background-color: #ffaa00; /* Slightly Darker Yellow */
+}
+
+/* Result Box */
+#result {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ffcc00; /* Yellow Border */
+    background-color: #111; /* Darker Grey */
+    border-radius: 5px;
+    display: inline-block;
+}
+
+/* Footer */
+footer {
+    margin-top: 30px;
+    color: #888;
+    font-size: 14px;
+}
